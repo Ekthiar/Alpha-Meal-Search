@@ -7,7 +7,7 @@ The project fetches real-time meal data and displays it in a responsive card lay
 
 ## 📸 Screenshot
 
-![Project Screenshot](./Screenshot 2025-12-16 at 9.41.43 PM.png)
+![Project Screenshot](./Screenshot%202025-12-16%20at%209.41.43 PM.png)
 
 > Example: Searching meals that start with the letter **"A"** showing total results and meal cards.
 
@@ -34,4 +34,3 @@ The project fetches real-time meal data and displays it in a responsive card lay
 ---
 
 ## 📦 API Used
-
